@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "bankName":"Aceleda",
+        "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnmhfxxNjr8e7U9pB4jWrb5SNIEpU4oOynvJ8n8E421naEkY5IZdobLrWbHKWyHcVMJB4&usqp=CAU",
+        "location":"Phnom Penh",
+        "lat":1,
+        "lon":2
+    },
+    {
+        "id":2,
+        "bankName":"ABA",
+        "imgurl":"https://media-exp1.licdn.com/dms/image/C510BAQEnYW7qoK68EQ/company-logo_200_200/0/1551321140398?e=2159024400&v=beta&t=gjFHGqYRrIXS0GEgTwgdNXcXnXeBH51TsQjx4PxzYn0",
+        "location":"Phnom Penh",
+        "lat":1,
+        "lon":2
+    },
+    {
+        "id":3,
+        "bankName":"SATHAPANA",
+        "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3n_SbY8A9DEICd2gX-S19VrXBUpbpKYxFlqJb4XIUgjE370n71BR0RcRwyQfsXotLLM&usqp=CAU",
+        "location":"Phnom Penh",
+        "lat":1,
+        "lon":2
+        
+    },
+    {
+        "id":4,
+        "bankName":"Cambodian Public",
+        "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7wmX-TyGN_DqJ3AcWbVFEKjjk_pYAQUliD5MpturcKfloQ16rjw_09g4ImVrpKBwlSW8&usqp=CAU",
+        "location":"Phnom Penh",
+        "lat":1,
+        "lon":2
+       
+    },
+    {
+        "id":5,
+        "bankName":"Canadia",
+        "imgurl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIPCS2uIfpIXmXBbJeyYoW94LGmb_hc-zdq7EFnGWQvuDKQWRNvpbiHyCxlETmOetq6V4&usqp=CAU",
+        "location":"Phnom Penh",
+        "lat":1,
+        "lon":2
+    
+    }
+
+ ]
+
